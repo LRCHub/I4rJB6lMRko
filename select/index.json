@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ME+YOU",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-07T10:09:14.457758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God Gave Me You",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/01_God_Gave_Me_You_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stuck on Me + You",
+      "artist": "Emily Ann Roberts",
+      "has_synced": true,
+      "path": "select/02_Stuck_on_Me_+_You_Emily_Ann_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To Me You Are a Work of Art",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/03_To_Me_You_Are_a_Work_of_Art_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Me & You",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/04_Me_&_You_Nero.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Me + You",
+      "artist": "Nightmares On Wax",
+      "has_synced": true,
+      "path": "select/05_Me_+_You_Nightmares_On_Wax.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When You Told Me You Loved Me",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/06_When_You_Told_Me_You_Loved_Me_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When You Told Me You Loved Me",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/07_When_You_Told_Me_You_Loved_Me_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Tell Me You Love Me",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/08_Don't_Tell_Me_You_Love_Me_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me, You",
+      "artist": "Devin the Dude",
+      "has_synced": false,
+      "path": "select/09_Me,_You_Devin_the_Dude.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Tell Me You Love Me",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/10_Don't_Tell_Me_You_Love_Me_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Only Tell Me You Love Me When You're Drunk",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_You_Only_Tell_Me_You_Love_Me_When_You're_Drunk_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Me & You - Danger Remix",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/12_Me_&_You_-_Danger_Remix_Nero.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Me & You - Dirtyphonics Remix",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/13_Me_&_You_-_Dirtyphonics_Remix_Nero.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Me & You - Kamuki Remix",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/14_Me_&_You_-_Kamuki_Remix_Nero.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bring It On Home to Me / You Send Me",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/15_Bring_It_On_Home_to_Me___You_Send_Me_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Do Me . . . You Do You",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/16_I_Do_Me_._._._You_Do_You_IDK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Had Me, You Lost Me",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/17_You_Had_Me,_You_Lost_Me_Eve.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Woho, I Thought It Be Me & You",
+      "artist": "Leonell Cassio feat. Lily Hain",
+      "has_synced": true,
+      "path": "select/18_Woho,_I_Thought_It_Be_Me_&_You_Leonell_Cassio_feat._Lily_Hain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ME+YOU",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_ME+YOU_TWICE.txt"
+    }
+  ]
+}
